@@ -56,7 +56,7 @@ const Banner = () => {
             >
               Hello, I'm Kukuh Agung Tri Pamuji. I am currently a student at SMK
               TELKOM PURWOKERTO. I have an interest in website programming,
-              especially as a backend developer.
+              especially as a front end developer.
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.6)}
