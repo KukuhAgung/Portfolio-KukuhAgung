@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio-KukuhAgung/static/css/main.b068279c.css",
-    "main.js": "/Portfolio-KukuhAgung/static/js/main.47a1f1a1.js",
+    "main.js": "/Portfolio-KukuhAgung/static/js/main.2489b907.js",
     "static/media/bookstore.png": "/Portfolio-KukuhAgung/static/media/bookstore.bae9b7fd461e0760ea83.png",
     "static/media/figma.png": "/Portfolio-KukuhAgung/static/media/figma.e3eda632293ac2143a26.png",
     "static/media/tailwindcss.png": "/Portfolio-KukuhAgung/static/media/tailwindcss.f0f26047a8933b822dae.png",
     "static/media/about.png": "/Portfolio-KukuhAgung/static/media/about.34da930ab4436bc41a33.png",
+    "static/media/react.png": "/Portfolio-KukuhAgung/static/media/react.4370a7d20c2e2ee015bf.png",
     "static/media/juragane.png": "/Portfolio-KukuhAgung/static/media/juragane.a7f5b2b46834f177819c.png",
     "static/media/bootstrap.png": "/Portfolio-KukuhAgung/static/media/bootstrap.076eb92a8bb8ce780bca.png",
     "static/media/avatar.svg": "/Portfolio-KukuhAgung/static/media/avatar.ff97ac85e0230f6e52dfdfd75715f468.svg",
@@ -20,10 +21,10 @@
     "static/media/css.png": "/Portfolio-KukuhAgung/static/media/css.f7a3400b7f8ab145bb65.png",
     "index.html": "/Portfolio-KukuhAgung/index.html",
     "main.b068279c.css.map": "/Portfolio-KukuhAgung/static/css/main.b068279c.css.map",
-    "main.47a1f1a1.js.map": "/Portfolio-KukuhAgung/static/js/main.47a1f1a1.js.map"
+    "main.2489b907.js.map": "/Portfolio-KukuhAgung/static/js/main.2489b907.js.map"
   },
   "entrypoints": [
     "static/css/main.b068279c.css",
-    "static/js/main.47a1f1a1.js"
+    "static/js/main.2489b907.js"
   ]
 }
