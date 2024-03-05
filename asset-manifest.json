@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-KukuhAgung/static/css/main.b068279c.css",
-    "main.js": "/Portfolio-KukuhAgung/static/js/main.c7b7203b.js",
+    "main.css": "/Portfolio-KukuhAgung/static/css/main.8e8be653.css",
+    "main.js": "/Portfolio-KukuhAgung/static/js/main.90ce0970.js",
     "static/media/bookstore.png": "/Portfolio-KukuhAgung/static/media/bookstore.bae9b7fd461e0760ea83.png",
     "static/media/figma.png": "/Portfolio-KukuhAgung/static/media/figma.e3eda632293ac2143a26.png",
     "static/media/tailwindcss.png": "/Portfolio-KukuhAgung/static/media/tailwindcss.f0f26047a8933b822dae.png",
@@ -20,11 +20,11 @@
     "static/media/html.png": "/Portfolio-KukuhAgung/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "static/media/css.png": "/Portfolio-KukuhAgung/static/media/css.f7a3400b7f8ab145bb65.png",
     "index.html": "/Portfolio-KukuhAgung/index.html",
-    "main.b068279c.css.map": "/Portfolio-KukuhAgung/static/css/main.b068279c.css.map",
-    "main.c7b7203b.js.map": "/Portfolio-KukuhAgung/static/js/main.c7b7203b.js.map"
+    "main.8e8be653.css.map": "/Portfolio-KukuhAgung/static/css/main.8e8be653.css.map",
+    "main.90ce0970.js.map": "/Portfolio-KukuhAgung/static/js/main.90ce0970.js.map"
   },
   "entrypoints": [
-    "static/css/main.b068279c.css",
-    "static/js/main.c7b7203b.js"
+    "static/css/main.8e8be653.css",
+    "static/js/main.90ce0970.js"
   ]
 }
